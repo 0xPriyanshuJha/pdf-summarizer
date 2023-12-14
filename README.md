@@ -31,9 +31,3 @@ The workflow auto-updates via Alfred's workflow-update mechanism.
 > **Advanced Users:** Instead of entering the API key directly, you can also
 > enter `.zshenv` into the API key field. The workflow then uses the key
 > exported as `CHATPDF_API_KEY` in your `.zshenv`.
-
-## Usage
-- Use the [Universal
-  Action](https://www.alfredapp.com/help/workflows/triggers/universal-actions/)
-  or the [hotkey](https://www.alfredapp.com/help/workflows/triggers/hotkey/)
-  while having selected a PDF file in Finder.
